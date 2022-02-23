@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55216169198",
+    "project_id": "tokari-eb174",
+    "storage_bucket": "tokari-eb174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55216169198:android:6d363736a71a4eb0af53ff",
+        "android_client_info": {
+          "package_name": "com.sagar.tokari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55216169198-jv1slnviu4okflv6t12icfdb1i4645c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sagar.tokari",
+            "certificate_hash": "8bcbafd9913c22976cf627867861d06a12f10b9f"
+          }
+        },
+        {
+          "client_id": "55216169198-56jrpsosb7kuqaojt4k49m3lti79bi9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_MYyJR-Ch2D7kb0YmFTtYtda9qgA3Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55216169198-56jrpsosb7kuqaojt4k49m3lti79bi9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
